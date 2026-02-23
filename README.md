@@ -33,6 +33,7 @@ The goal is to simulate real-world business intelligence analysis using Python a
 ## 📈 Visualizations
 <img width="1054" height="450" alt="1" src="https://github.com/user-attachments/assets/314e722a-561a-41d8-9b21-e58de2dcbcb4" />
 <img width="1200" height="500" alt="5" src="https://github.com/user-attachments/assets/d4e031bc-3166-4864-a957-06259e92f315" />
+
 ## 📁 Dataset
 Monthly sales data for 2019 including:
 - Order ID
