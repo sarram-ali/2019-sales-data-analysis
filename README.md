@@ -18,11 +18,11 @@ The goal is to simulate real-world business intelligence analysis using Python a
 
 ## 📈 Key Insights
 
-#### 💰 Best Sales Month: December (Highest Revenue)
-#### 🏙 Top Performing City: (San Francisco (CA))
-#### ⏰ Peak Purchase Hours: Around 11 AM and 7 PM
-#### 📦 Frequently Bought Together: (AAA Batteries (4-pack))
-#### 🔥 Most Sold Product: (AAA Batteries (4-pack))
+#### 💰 Best Sales Month ----- December (Highest Revenue)
+#### 🏙 Top Performing City ----- (San Francisco (CA))
+#### ⏰ Peak Purchase Hours ----- Around 11 AM and 7 PM
+#### 📦 Frequently Bought Together ----- (AAA Batteries (4-pack))
+#### 🔥 Most Sold Product ----- (AAA Batteries (4-pack))
 
 ## 💡 Business Recommendations
 #### Increase marketing spend during peak sales months.
